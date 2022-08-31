@@ -1,0 +1,23 @@
+{
+  "name": "rest-node-mongodb",
+  "version": "1.0.0",
+  "description": "Created for learning purpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velkrish89/rest-node-mongodb.git"
+  },
+  "author": "GreyWolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velkrish89/rest-node-mongodb/issues"
+  },
+  "homepage": "https://github.com/velkrish89/rest-node-mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4"
+  }
+}
